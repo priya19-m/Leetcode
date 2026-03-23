@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priya19-m/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priya19-m/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/priya19-m/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/priya19-m/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/priya19-m/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/priya19-m/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priya19-m/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/priya19-m/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priya19-m/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/priya19-m/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/priya19-m/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/priya19-m/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Two Pointers
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/priya19-m/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/priya19-m/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/priya19-m/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/priya19-m/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
