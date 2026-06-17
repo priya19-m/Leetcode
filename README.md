@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/priya19-m/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/priya19-m/Leetcode/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/priya19-m/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/priya19-m/Leetcode/tree/master/0290-word-pattern) |
 | [0657-robot-return-to-origin](https://github.com/priya19-m/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/priya19-m/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/priya19-m/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/priya19-m/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/priya19-m/Leetcode/tree/master/0290-word-pattern) |
 | [1980-find-unique-binary-string](https://github.com/priya19-m/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priya19-m/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/priya19-m/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
