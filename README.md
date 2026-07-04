@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/priya19-m/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/priya19-m/Leetcode/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/priya19-m/Leetcode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/priya19-m/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/priya19-m/Leetcode/tree/master/0290-word-pattern) |
 | [0657-robot-return-to-origin](https://github.com/priya19-m/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priya19-m/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priya19-m/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0079-word-search](https://github.com/priya19-m/Leetcode/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/priya19-m/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priya19-m/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/priya19-m/Leetcode/tree/master/0704-binary-search) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/priya19-m/Leetcode/tree/master/0079-word-search) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/priya19-m/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/priya19-m/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/priya19-m/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priya19-m/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/priya19-m/Leetcode/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/priya19-m/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/priya19-m/Leetcode/tree/master/2751-robot-collisions) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/priya19-m/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
