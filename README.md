@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/priya19-m/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/priya19-m/Leetcode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/priya19-m/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/priya19-m/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/priya19-m/Leetcode/tree/master/0290-word-pattern) |
 | [0657-robot-return-to-origin](https://github.com/priya19-m/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/priya19-m/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/priya19-m/Leetcode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/priya19-m/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/priya19-m/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/priya19-m/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
@@ -206,4 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/priya19-m/Leetcode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/priya19-m/Leetcode/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/priya19-m/Leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/priya19-m/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
