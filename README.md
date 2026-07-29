@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/priya19-m/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/priya19-m/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/priya19-m/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/priya19-m/Leetcode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/priya19-m/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priya19-m/Leetcode/tree/master/0020-valid-parentheses) |
 | [2751-robot-collisions](https://github.com/priya19-m/Leetcode/tree/master/2751-robot-collisions) |
 ## Depth-First Search
 |  |
