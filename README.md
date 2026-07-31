@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/priya19-m/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/priya19-m/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priya19-m/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya19-m/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/priya19-m/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/priya19-m/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/priya19-m/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/priya19-m/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priya19-m/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya19-m/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/priya19-m/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Backtracking
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya19-m/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priya19-m/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/priya19-m/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/priya19-m/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/priya19-m/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2751-robot-collisions](https://github.com/priya19-m/Leetcode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priya19-m/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya19-m/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/priya19-m/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priya19-m/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priya19-m/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priya19-m/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya19-m/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
