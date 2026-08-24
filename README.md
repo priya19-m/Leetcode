@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priya19-m/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priya19-m/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/priya19-m/Leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/priya19-m/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priya19-m/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priya19-m/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/priya19-m/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priya19-m/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priya19-m/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/priya19-m/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/priya19-m/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priya19-m/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya19-m/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priya19-m/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
