@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/priya19-m/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/priya19-m/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/priya19-m/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/priya19-m/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priya19-m/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priya19-m/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya19-m/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/priya19-m/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/priya19-m/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
 |  |
 | ------- |
