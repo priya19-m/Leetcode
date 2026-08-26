@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/priya19-m/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/priya19-m/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priya19-m/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/priya19-m/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/priya19-m/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/priya19-m/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/priya19-m/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/priya19-m/Leetcode/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/priya19-m/Leetcode/tree/master/0415-add-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/priya19-m/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/priya19-m/Leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/priya19-m/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/priya19-m/Leetcode/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/priya19-m/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/priya19-m/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/priya19-m/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/priya19-m/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
